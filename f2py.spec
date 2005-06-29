@@ -10,6 +10,7 @@ Source0:	http://cens.ioc.ee/projects/f2py2e/2.x/F2PY-%{version}.tar.gz
 # Source0-md5:	8aedac9cad32afdcddcfb026b6393ece
 URL:		http://cens.ioc.ee/projects/f2py2e/
 %pyrequires_eq  python-modules
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
