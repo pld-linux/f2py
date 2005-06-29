@@ -4,7 +4,7 @@ Summary(pl):	Oprogramowanie do robienia kopii zapasowych
 Name:		f2py
 Version:	2.45.241_1926
 Release:	1
-License:	GPL
+License:	LGPL
 Group:		Networking/Utilities
 Source0:	http://cens.ioc.ee/projects/f2py2e/2.x/F2PY-%{version}.tar.gz
 # Source0-md5:	8aedac9cad32afdcddcfb026b6393ece
