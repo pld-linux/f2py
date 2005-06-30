@@ -1,6 +1,6 @@
 %define	module	f2py2e
 Summary:	Fortran to Python interface generator
-Summary(pl):	Oprogramowanie do robienia kopii zapasowych
+Summary(pl):	Generator interfejsów z Fortranu do Pythona
 Name:		f2py
 Version:	2.45.241_1926
 Release:	1
@@ -15,6 +15,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Fortran to Python interface generator.
+
+%description -l pl
+Generator interfejsów z Fortranu do Pythona.
 
 %prep
 %setup -q -n F2PY-%{version}
