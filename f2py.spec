@@ -1,6 +1,6 @@
 %define	module	f2py2e
 Summary:	Fortran to Python interface generator
-Summary(pl.UTF-8):   Generator interfejsów z Fortranu do Pythona
+Summary(pl.UTF-8):	Generator interfejsów z Fortranu do Pythona
 Name:		f2py
 Version:	2.45.241_1926
 Release:	1
