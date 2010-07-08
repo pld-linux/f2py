@@ -3,7 +3,7 @@ Summary:	Fortran to Python interface generator
 Summary(pl.UTF-8):	Generator interfejsów z Fortranu do Pythona
 Name:		f2py
 Version:	2.45.241_1926
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Networking/Utilities
 Source0:	http://cens.ioc.ee/projects/f2py2e/2.x/F2PY-%{version}.tar.gz
